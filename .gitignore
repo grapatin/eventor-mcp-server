@@ -1,0 +1,34 @@
+# Sensitive config
+eventor_config.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build/dist
+/dist/
+/build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# IDE/project files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Output/sample data
+json/
+*.xml
+
+# Local DBs (if any in future)
+*.sqlite3
