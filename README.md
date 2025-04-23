@@ -47,8 +47,6 @@ To debug just start it in debug mode, it has a __main__ function that will run t
 
 ```bash
 python -m eventor
-```python
-
 ```
 
 ### Install MCP server for Claude
