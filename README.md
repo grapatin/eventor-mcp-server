@@ -72,7 +72,6 @@ Add this to cluade_desktopr_config.json
 Configuration is done via the `eventor_config.py` file. This file contains sensitive information and is excluded from version control via `.gitignore`.
 Add both eventor private key (talk to org eventor admin) and your own private personId. (can be found in out put json file)
 
-```python
 
 ## License
 
