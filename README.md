@@ -20,7 +20,7 @@ A Python client for integrating with the Eventor orienteering API, providing acc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/eventor-mcp-server.git
+git clone https://github.com/grapatin/eventor-mcp-server.git
 cd eventor-mcp-server
 ```
 
