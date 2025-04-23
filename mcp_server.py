@@ -55,4 +55,4 @@ if __name__ == "__main__":
     # import uvicorn
     # uvicorn.run(mcp, host="0.0.0.0", port=8000)
     #print(get_weekly_club_results())
-    print(get_personal_results(daysback=14))
+    print(get_personal_events(daysback=14))
